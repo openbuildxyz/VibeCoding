@@ -1,0 +1,12 @@
+{
+  "name": "vibecoding",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">     <h1>Vibe Coding 实战课！</h1>     <p>零基础也能上手，Vibe Coding 实战课，带你做出第一个可运行产品</p> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
